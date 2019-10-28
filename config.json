@@ -1,6 +1,6 @@
 ﻿{
 	"id": "com.vortexapplabs.zapracer",
-	"version": "1.0",
+	"version": "1.1",
 	"name": "Zap racer",
 	"description": "Fastest city streets are waiting for you!",
 	"author": "Vortex App Labs",
@@ -32,8 +32,8 @@
 		{ "id": "cordova-plugin-wkwebview-engine", "version": null }
 	],
 	"android": {
-		"min": 23,
-		"target": 29,
+		"min": 21,
+		"target": 26,
 		"plugins": []
 	},
 	"ios": {
